@@ -11,6 +11,8 @@ You can contribute by reporting any bugs found to the issues tab!
 
 - Level 4 (Dry Out Parody)
 
+- Game Boy DMG Pallete Support (some palletes are all BLACK)
+
 # Missing Features compared to 1.0
 
 - Upside Down Gravity
@@ -18,8 +20,6 @@ You can contribute by reporting any bugs found to the issues tab!
 - Ship Gamemode
 
 - Dynamic Ground
-
-- Game Boy DMG Pallete Support (some palletes are all BLACK)
 
 - Dry Out, Base After Base, Cant Let Go, Jumper (Parody Levels)
 
