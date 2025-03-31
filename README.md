@@ -5,13 +5,19 @@ You can contribute by reporting any bugs found to the issues tab!
 
 **All music tracks ingame are parodies of Geometry Dash ones to avoid copyright!**
 
-# Planned Feautres
+# Planned Feautres for next update
 
 - Gravity Swap Portals
 
 - Level 4 (Dry Out Parody)
 
 - Game Boy DMG Pallete Support (some palletes are all BLACK)
+
+# Planned Features (All Time)
+
+- Progress Bar (ingame + level select)
+
+- New Best
 
 # Missing Features compared to 1.0
 
